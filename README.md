@@ -121,7 +121,7 @@ model("test.jpg").show()
 ![Sample Detection Image](./ODV.png)
 
 ### Video Sample  
-[Watch Detection Video - Traffic Police](./video/compressed_output_TrafficPolice.mp4)
+[Watch Detection Video - Traffic Police](./compressed_output_TrafficPolice.mp4)
 
 > Real-time traffic vehicle detection using trained YOLOv11 model.
 
